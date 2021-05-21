@@ -1,0 +1,8 @@
+kz/proffix4/hibernate/HibernateUtil.java
+ kz.proffix4.hibernate.HibernateUtil
+kz/proffix4/hibernate/User.java
+ kz.proffix4.hibernate.User
+kz/proffix4/hibernate/TSN_HIBERNATE.java
+ kz.proffix4.hibernate.TSN_HIBERNATE
+kz/proffix4/hibernate/UserRole.java
+ kz.proffix4.hibernate.UserRole
